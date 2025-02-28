@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "webapi.Controllers.TareaController",
+    "Method": "Index",
+    "RelativePath": "api/Tarea",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
